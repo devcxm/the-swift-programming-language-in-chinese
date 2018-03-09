@@ -2,7 +2,7 @@
 
 * [欢迎使用 Swift](chapter1/chapter1.md)
    * [关于 Swift](chapter1/01_swift.md)
-   * [版本兼容性](02_version_compatibility.md)
+   * [版本兼容性](chapter1/02_version_compatibility.md)
    * [Swift 初见](chapter1/03_a_swift_tour.md)
    * [Swift 版本历史记录](chapter1/04_revision_history.md)
 * [Swift 教程](chapter2/chapter2.md)
