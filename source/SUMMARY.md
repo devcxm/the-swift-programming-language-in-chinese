@@ -2,9 +2,9 @@
 
 * [欢迎使用 Swift](chapter1/chapter1.md)
    * [关于 Swift](chapter1/01_swift.md)
-   * [Swift 初见](chapter1/02_a_swift_tour.md)
-   * [Swift 版本历史记录](chapter1/03_revision_history.md)
-   * [Swift 1.0 发布内容](v1.0.md)
+   * [版本兼容性](02_version_compatibility.md)
+   * [Swift 初见](chapter1/03_a_swift_tour.md)
+   * [Swift 版本历史记录](chapter1/04_revision_history.md)
 * [Swift 教程](chapter2/chapter2.md)
    * [基础部分](chapter2/01_The_Basics.md)
    * [基本运算符](chapter2/02_Basic_Operators.md)
@@ -29,7 +29,8 @@
    * [扩展](chapter2/21_Extensions.md)
    * [协议](chapter2/22_Protocols.md)
    * [泛型](chapter2/23_Generics.md)
-   * [访问控制](chapter2/24_Access_Control.md)
+   * [内存安全](chapter2/24_Memory_Safe.md)
+   * [访问控制](chapter2/25_Access_Control.md)
    * [高级运算符](chapter2/25_Advanced_Operators.md)
 * 语言参考
    * [关于语言参考](chapter3/01_About_the_Language_Reference.md)
